@@ -1,0 +1,15 @@
+C:\Users\ibrah\Desktop\GitHUB projects\HackerRank_Solutions\PlusMinus\bin\Debug\net7.0\PlusMinus.exe
+C:\Users\ibrah\Desktop\GitHUB projects\HackerRank_Solutions\PlusMinus\bin\Debug\net7.0\PlusMinus.deps.json
+C:\Users\ibrah\Desktop\GitHUB projects\HackerRank_Solutions\PlusMinus\bin\Debug\net7.0\PlusMinus.runtimeconfig.json
+C:\Users\ibrah\Desktop\GitHUB projects\HackerRank_Solutions\PlusMinus\bin\Debug\net7.0\PlusMinus.dll
+C:\Users\ibrah\Desktop\GitHUB projects\HackerRank_Solutions\PlusMinus\bin\Debug\net7.0\PlusMinus.pdb
+C:\Users\ibrah\Desktop\GitHUB projects\HackerRank_Solutions\PlusMinus\obj\Debug\net7.0\PlusMinus.csproj.AssemblyReference.cache
+C:\Users\ibrah\Desktop\GitHUB projects\HackerRank_Solutions\PlusMinus\obj\Debug\net7.0\PlusMinus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrah\Desktop\GitHUB projects\HackerRank_Solutions\PlusMinus\obj\Debug\net7.0\PlusMinus.AssemblyInfoInputs.cache
+C:\Users\ibrah\Desktop\GitHUB projects\HackerRank_Solutions\PlusMinus\obj\Debug\net7.0\PlusMinus.AssemblyInfo.cs
+C:\Users\ibrah\Desktop\GitHUB projects\HackerRank_Solutions\PlusMinus\obj\Debug\net7.0\PlusMinus.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\Desktop\GitHUB projects\HackerRank_Solutions\PlusMinus\obj\Debug\net7.0\PlusMinus.dll
+C:\Users\ibrah\Desktop\GitHUB projects\HackerRank_Solutions\PlusMinus\obj\Debug\net7.0\refint\PlusMinus.dll
+C:\Users\ibrah\Desktop\GitHUB projects\HackerRank_Solutions\PlusMinus\obj\Debug\net7.0\PlusMinus.pdb
+C:\Users\ibrah\Desktop\GitHUB projects\HackerRank_Solutions\PlusMinus\obj\Debug\net7.0\PlusMinus.genruntimeconfig.cache
+C:\Users\ibrah\Desktop\GitHUB projects\HackerRank_Solutions\PlusMinus\obj\Debug\net7.0\ref\PlusMinus.dll
